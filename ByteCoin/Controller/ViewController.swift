@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         currencyPicker.delegate = self
         coinManager.delegate = self
         coinManager.performRequest(for: "USD")
-      
+        currencyPicker?.selectRow(19, inComponent: 0, animated: true)
       
     }
 }
