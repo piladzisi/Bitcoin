@@ -96,7 +96,7 @@
                         <viewLayoutGuide key="safeArea" id="CjI-yV-vnC"/>
                     </view>
                     <connections>
-                        <outlet property="bitcoinLabel" destination="Qdw-gh-nWc" id="aeH-gm-njB"/>
+                        <outlet property="bitcoinPrice" destination="N2a-Ax-iRV" id="baU-eu-fuh"/>
                         <outlet property="currencyLabel" destination="MAn-y0-nXv" id="VpD-N6-et8"/>
                         <outlet property="currencyPicker" destination="ct2-jk-pgH" id="C4U-Uu-u2o"/>
                     </connections>
